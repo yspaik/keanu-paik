@@ -101,4 +101,3 @@ decoder input과 encoder output간의 attention
 - [Illustrated Transformer](https://nlpinkorean.github.io/illustrated-transformer/)
 - [Attention is all you need](https://arxiv.org/abs/1706.03762)
 - [Attention Mechanism과 Transformer](https://medium.com/platfarm/%EC%96%B4%ED%85%90%EC%85%98-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98%EA%B3%BC-transfomer-self-attention-842498fd3225)
-- 

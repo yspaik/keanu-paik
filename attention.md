@@ -95,9 +95,7 @@ decoder input과 encoder output간의 attention
 ![query](https://miro.medium.com/max/500/1*RdiEz0jupMwiaoGMgHThEg.png)
 
 - 디코딩 스텝은 decoder가 출력을 완료했다는 special 기호인 <end of sentence>를 출력할 때까지 반복
-
-
-![decode](https://nlpinkorean.github.io/images/transformer/transformer_decoding_2.gif)
+   * Illustrated Transformer decoding 그림 참조 [Illustrated Transformer](https://nlpinkorean.github.io/illustrated-transformer/)
 
 #### Reference
 - [Illustrated Transformer](https://nlpinkorean.github.io/illustrated-transformer/)
